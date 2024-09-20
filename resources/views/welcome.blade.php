@@ -58,7 +58,7 @@
                           </p>
                           <p>I have experience with <b>HTML, CSS, JavaScript, React.js, Symfony, MySQL,Node JS, PHP, Docker,Python,Java,Postgres and AWS</b>. Beyond my work, I find satisfaction in stretching my horizons in terms of knowledge, keeping up with daily technical advancements, and exploring new places.</p>
                     <div class="social-icons">
-                        <a class="social-icon" href="www.linkedin.com/in/nehalika-vadlamudi" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="https://www.linkedin.com/in/nehalika-vadlamudi/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/NehalikaVadlamudi"><i class="fab fa-github"></i></a>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
             <!-----Projects----->
             <section class="resume-section" id="projects">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Project</h2>
+                    <h2 class="mb-5">Projects</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Terrazas De Guacuco Website</h3>
