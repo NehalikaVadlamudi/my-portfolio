@@ -28,6 +28,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
                 </ul>
@@ -57,8 +58,8 @@
                           </p>
                           <p>I have experience with <b>HTML, CSS, JavaScript, React.js, Symfony, MySQL,Node JS, PHP, Docker,Python,Java,Postgres and AWS</b>. Beyond my work, I find satisfaction in stretching my horizons in terms of knowledge, keeping up with daily technical advancements, and exploring new places.</p>
                     <div class="social-icons">
-                        <a class="social-icon" href="https://www.linkedin.com/in/nehalikav/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="www.linkedin.com/in/nehalika-vadlamudi" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="https://github.com/NehalikaVadlamudi"><i class="fab fa-github"></i></a>
                     </div>
                 </div>
             </section>
@@ -90,6 +91,34 @@
                             <p>Assisted in maintaining and enhancing the college's web portal, resulting in a 20% improvement in performance and user experience. Collaborated with professors and IT teams to troubleshoot issues, implement updates, and integrate Python-based solutions, which boosted system reliability by 25%. Developed front-end interfaces using HTML, CSS, and JavaScript, reducing page load times by 15% and improving usability. Leveraged Python for server-side scripting and automation, increasing backend processing efficiency by 30%. Optimized server-side logic and database interactions using PHP and MySQL, improving data handling capabilities by 25%. Integrated Python libraries for data analysis and API functions, enhancing user engagement by 10%. Spearheaded the Software Development Life Cycle (SDLC) of a student app, utilizing Java and MySQL to manage 35,000 signups, improving application performance and scalability by 20%. Administered Linux/Unix servers with 99.5% uptime, and automated tasks using Bash scripting, reducing manual interventions by 30% and improving system reliability. Implemented Git for version control, ensuring effective collaboration, and conducted unit testing to deliver a high-quality, reliable product.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">April 2020 - June 2021</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-----Projects----->
+            <section class="resume-section" id="projects">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Project</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Terrazas De Guacuco Website</h3>
+                            <div class="subheading mb-3">Master's</div>
+                            <p>Developed a dynamic web application for a housing community using HTML, CSS, JavaScript, and React JS for the frontend, and Node.js, PHP, and Laravel for backend functionality. The application enhanced the user experience by allowing visitors to explore available facilities and residents to manage accounts and view charges, improving engagement and service access. Deployed an online banking platform on AWS EC2, leveraging Linux-based servers and technologies like PHP, Laravel, Node.js, and React JS, which resulted in a 20% boost in server performance and high availability. Automated deployment processes with Bash scripts, Jenkins CI/CD pipelines, and Docker, reducing deployment time by 30% and ensuring consistent environments.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Automatic Image Colorization</h3>
+                            <div class="subheading mb-3">Master's</div>
+                            <p>Led the automation of grayscale image colorization using advanced deep neural networks in TensorFlow/Keras and PyTorch, achieving realistic and vibrant color outputs. Implemented VGG-16 architecture for feature extraction and utilized the CIE Lab Color Space for accurate, visually appealing results. Achieved 85% accuracy in image colorization by training models on a subset of the ImageNet Dataset. Leveraged OpenCV for image processing and Matplotlib for visualizations, optimizing data handling with NumPy and Pandas. Extended the technique to video streams, improving visual engagement by 30%. Conducted model experimentation and performance analysis using Jupyter Notebooks, enabling iterative improvements in model accuracy and quality.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Data Mining project</h3>
+                            <div class="subheading mb-3">Master's</div>
+                            <p>Implemented K-means and Hierarchical Agglomerative Clustering models using Scikit-learn, identifying optimal K values with the elbow method, resulting in improved cluster accuracy. Visualized clusters and model performance with Matplotlib, enhancing data interpretation and insight extraction. Applied K-Nearest Neighbors (KNN) and Decision Trees for classification tasks, generating confusion matrices and calculating entropy to ensure precise split evaluation. Utilized Scikit-learn and Matplotlib to visualize decision trees and performance metrics, providing in-depth analysis and improved decision-making accuracy.</p>
+                        </div>
                     </div>
                 </div>
             </section>
