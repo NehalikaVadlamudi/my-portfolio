@@ -44,7 +44,7 @@
                     </h1>
                     <div class="subheading mb-5">
                          Mckinney , TX · (214) 699-9201 ·
-                        <a href="mailto:name@email.com">nehalika.work@gmail.com</a>
+                        <a href="mailto:name@email.com">nehalikavadlamudi@gmail.com</a>
                     </div>
                     <p class="lead mb-5">I'm Creative <b>Web Application Developer</b>, with strong interest in Web Application Development.
                         I enjoy turning complex problems into simple, beautiful and intuitive designs.</p>
